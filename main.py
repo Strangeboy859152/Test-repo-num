@@ -1,6 +1,5 @@
 import telebot
 from datetime import datetime
-import pytz
 import threading
 import time
 import os
